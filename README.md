@@ -20,7 +20,7 @@ A modern, visually appealing Fitness Dashboard Android application built using *
 
 ## 📸 Preview
 
-*(Add your screenshot here)*
+![Fitness Dashboard Preview](screenshot.png)
 
 ## 🚀 Getting Started
 
