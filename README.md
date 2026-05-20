@@ -28,5 +28,3 @@ A modern, visually appealing Fitness Dashboard Android application built using *
 2. Open in Android Studio (Ladybug or newer).
 3. Build and run on an emulator or physical device.
 
----
-Built with ❤️ by Tejashree
